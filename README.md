@@ -1,5 +1,7 @@
 # Hi, I'm Ayorinde Ajibaye [felayo]
 
+<p><em> 🚀 Ready to be hired. <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
