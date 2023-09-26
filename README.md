@@ -22,21 +22,6 @@ const felayo = {
     funFact: "I love research 🐶, coding and run busines"
 };
 ```
-### 📫 Connect with me:
-<a href="[https://linkedin.com/in/ajioz](https://www.linkedin.com/in/ajioz/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="[https://facebook.com/Ajioz](https://www.facebook.com/Ajioz)">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="[https://instagram.com/ajiozi](https://www.instagram.com/ajioz1/)">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-<a href="https://twitter.com/ajioz_">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a> 
-
-<br />
 
 ## Languages and Tools I am Familiar With:
 
@@ -55,4 +40,14 @@ const felayo = {
 
 <br /> 
 
+---
+### Show some ❤️ by starring some of the repositories!
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ajioz&show_icons=true&hide_border=true)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
+
+
+⭐️ From [@Ajioz](https://github.com/Ajioz)
+<br />
+---
