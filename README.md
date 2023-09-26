@@ -1,11 +1,25 @@
 # Hi, I'm Ayorinde Ajibaye [felayo]
 
-[![](https://komarev.com/ghpvc/?username=felayo&style=for-the-badge)][github]
-[![Followers](https://img.shields.io/github/followers/felayo?color=1DA1F2&logo=github&style=for-the-badge)][github]
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on a booking engine for a travel site using NodeJs and ReactJS
-- 🌱 I'm currently learning TypeScript and NextJS at my free time 
-- 👯 I'm currently leading a backend team for an open-source project, (Gomerce)
-- 📫 You can reach me via mail @ajibaye@gmail.com for collaborations ;)
-
+```javascript
+const felayo = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "python"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["MUI", "bootstrap", 'tailwind']
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        databases: ["mongo", "PostgresSQL", "sqlite"],
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    funFact: "I love research 🐶, coding and run busines"
+};
+```
 
